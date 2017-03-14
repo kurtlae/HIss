@@ -30,7 +30,7 @@ public class Program {
 //		Elevator simpleThread1 = new Elevator(1000);
 //		Elevator simpleThread2 = new Elevator(1322);
 //		simpleThread1.start();   
-//		simpleThread2.start();
+//		simpleThread2.start(); 
 				
 		
 	}

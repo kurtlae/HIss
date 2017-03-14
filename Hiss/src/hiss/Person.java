@@ -20,7 +20,7 @@ public class Person extends Thread implements Runnable {
 	//Private Elevator elevator;
 		
 
-
+//df
 	
 	
 	public boolean getDirection() {

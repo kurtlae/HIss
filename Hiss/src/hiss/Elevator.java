@@ -47,7 +47,7 @@ public class Elevator implements Runnable {
 				}
 			}
 
-
+// s
 		}
 		
 		for (int i = current0; i <= target; i++) {
